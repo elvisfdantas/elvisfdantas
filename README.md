@@ -1,5 +1,5 @@
 ### Olá, meu nome é Elvis :)
-Estudante de Ciencia de Dados e apaixonado por desafios. Atualmente trabalho com finanças e busco transição para área de dados
+Estudante de Ciencia de Dados e apaixonado por desafios. Atualmente trabalho com finanças e busco transição para área de dados.
 
 - 💻 Graduado em Redes de Computador pela <a href="https://www.unoeste.br/"> Unoeste Presidente Prudente </a>
 - 🎓 Outra Graduação: Sistemas de Informação pela Faculdade Ranchariense.
