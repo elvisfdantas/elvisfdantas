@@ -7,7 +7,7 @@ Estudante de Ciencia de Dados e apaixonado por desafios. Atualmente trabalho com
 - 👨🏻‍💻 **Estudante** do curso de Ciência de Dados na <a href="https://www.hashtagtreinamentos.com/curso-ciencia-de-dados/"> Hashtag Treinamentos </a>
 - 🤔 Procuro desenvolver minhas habilidades, aprender e compartilhar conhecimento
 
-- 🖥️ Atualmente mais focado em:
+ 🖥️ Atualmente mais focado em:
 
 - <div display="inline">
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
