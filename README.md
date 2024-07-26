@@ -14,3 +14,8 @@ Estudante de Ciencia de Dados e apaixonado por desafios. Atualmente trabalho com
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />&nbsp;&nbsp;
 </div>
+
+### Você também me encontra em:
+<a href="https://www.linkedin.com/in/elvis-dantas/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
